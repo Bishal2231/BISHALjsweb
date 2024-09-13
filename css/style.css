@@ -728,8 +728,8 @@ button {
 }
 
 .blog_taital_1 {
-    color: #fefefd;
-    border-bottom: 5px solid #fefefd;
+    color: black;
+    border-bottom: 5px solid #000000;
 }
 
 .blog_text {
